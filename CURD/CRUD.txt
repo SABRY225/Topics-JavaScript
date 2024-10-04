@@ -1,0 +1,10 @@
+CURD Operation
+
+C  -----> Create 
+
+U  -----> Update
+
+R  -----> Read
+
+D  -----> Delete
+
